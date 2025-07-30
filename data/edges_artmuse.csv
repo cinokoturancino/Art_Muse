@@ -1,0 +1,67 @@
+from ,to,label,value
+001a,001m,Leonardo Da Vinci - Louvre Museum,15
+001a,004m,Leonardo Da Vinci - Vatican Museums,2
+001a,007m,Leonardo Da Vinci - National Gallery of Art,3
+001a,003m,Leonardo Da Vinci - The Metropolitan Museum of Art,1
+002a,009m,Vincent Van Gogh - Van Gogh Museum,43
+002a,005m,Vincent Van Gogh - Muse dOrsay,12
+002a,010m,Vincent Van Gogh - Rijksmuseum,8
+002a,008m,Vincent Van Gogh - The Museum of Modern Art,5
+002a,006m,Vincent Van Gogh - Tate Modern,3
+003a,008m,Pablo Picasso - The Museum of Modern Art,22
+003a,003m,Pablo Picasso - The Metropolitan Museum of Art,18
+003a,001m,Pablo Picasso - Louvre Museum,7
+003a,006m,Pablo Picasso - Tate Modern,9
+003a,007m,Pablo Picasso - National Gallery of Art,4
+004a,005m,Claude Monet - Muse dOrsay,28
+004a,007m,Claude Monet - National Gallery of Art,9
+004a,003m,Claude Monet - The Metropolitan Museum of Art,12
+004a,008m,Claude Monet - The Museum of Modern Art,6
+004a,001m,Claude Monet - Louvre Museum,3
+005a,010m,Johannes Vermeer - Rijksmuseum,4
+005a,001m,Johannes Vermeer - Louvre Museum,2
+005a,002m,Johannes Vermeer - The British Museum,1
+006a,006m,Edvard Munch - Tate Modern,7
+006a,009m,Edvard Munch - Van Gogh Museum,3
+006a,008m,Edvard Munch - The Museum of Modern Art,5
+006a,003m,Edvard Munch - The Metropolitan Museum of Art,2
+007a,008m,Salvador Dali - The Museum of Modern Art,16
+007a,003m,Salvador Dali - The Metropolitan Museum of Art,11
+007a,006m,Salvador Dali - Tate Modern,8
+007a,001m,Salvador Dali - Louvre Museum,3
+008a,006m,Rene Magritte - Tate Modern,5
+008a,008m,Rene Magritte - The Museum of Modern Art,7
+008a,009m,Rene Magritte - Van Gogh Museum,2
+009a,001m,Henri Matisse - Louvre Museum,11
+009a,005m,Henri Matisse - Muse dOrsay,9
+009a,008m,Henri Matisse - The Museum of Modern Art,13
+009a,003m,Henri Matisse - The Metropolitan Museum of Art,4
+010a,010m,Rembrandt van Rijn - Rijksmuseum,19
+010a,001m,Rembrandt van Rijn - Louvre Museum,7
+010a,007m,Rembrandt van Rijn - National Gallery of Art,5
+010a,002m,Rembrandt van Rijn - The British Museum,3
+011a,007m,Edgar Degas - National Gallery of Art,14
+011a,005m,Edgar Degas - Muse dOrsay,8
+011a,003m,Edgar Degas - The Metropolitan Museum of Art,6
+011a,001m,Edgar Degas - Louvre Museum,4
+012a,008m,Frida Kahlo - The Museum of Modern Art,9
+012a,003m,Frida Kahlo - The Metropolitan Museum of Art,7
+012a,006m,Frida Kahlo - Tate Modern,6
+012a,009m,Frida Kahlo - Van Gogh Museum,2
+013a,005m,Paul Cezanne - Muse dOrsay,8
+013a,001m,Paul Cezanne - Louvre Museum,5
+013a,007m,Paul Cezanne - National Gallery of Art,6
+013a,008m,Paul Cezanne - The Museum of Modern Art,3
+014a,004m,Titian - Vatican Museums,6
+014a,001m,Titian - Louvre Museum,9
+014a,003m,Titian - The Metropolitan Museum of Art,7
+014a,007m,Titian - National Gallery of Art,4
+015a,008m,Jackson Pollock - The Museum of Modern Art,12
+015a,003m,Jackson Pollock - The Metropolitan Museum of Art,8
+015a,006m,Jackson Pollock - Tate Modern,5
+016a,001m,Caravaggio - Louvre Museum,9
+016a,004m,Caravaggio - Vatican Museums,7
+016a,003m,Caravaggio - The Metropolitan Museum of Art,6
+017a,009m,Gustav Klimt - Van Gogh Museum,7
+017a,008m,Gustav Klimt - The Museum of Modern Art,11
+017a,001m,Gustav Klimt - Louvre Museum,4

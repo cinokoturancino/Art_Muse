@@ -1,0 +1,28 @@
+id,label,value,group,title,shape,color
+001m,Louvre Museum ,1591,museum ,<p>1<br>Tooltip !</p>,triangular,red
+002m,The British Museum ,266,museum ,<p>1<br>Tooltip !</p>,triangular,red
+003m,The Metropolitan Museum of Art,1614,museum ,<p>1<br>Tooltip !</p>,triangular,red
+004m,Vatican Museums,9,museum ,<p>1<br>Tooltip !</p>,triangular,red
+005m,Muse dOrsay,105,museum ,<p>1<br>Tooltip !</p>,triangular,red
+006m,Tate Modern,678,museum ,<p>1<br>Tooltip !</p>,triangular,red
+007m,National Gallery of Art,1224,museum ,<p>1<br>Tooltip !</p>,triangular,red
+008m,The Museum of Modern Art,5565,museum ,<p>1<br>Tooltip !</p>,triangular,red
+009m,Van Gogh Museum,1299,museum ,<p>1<br>Tooltip !</p>,triangular,red
+010m,Rijksmuseum,560,museum ,<p>1<br>Tooltip !</p>,triangular,red
+001a,Leonardo Da Vinci,660,artist,<p>1<br>Giovanni !</p>,circular,blue
+002a,Vincent Van Gogh,946,artist,<p>1<br>Tooltip !</p>,circular,blue
+003a,Pablo Picasso,846,artist,<p>1<br>Tooltip !</p>,circular,blue
+004a,Claude Monet,257,artist,<p>1<br>Tooltip !</p>,circular,blue
+005a,Johannes Vermer,35,artist,<p>1<br>Tooltip !</p>,circular,blue
+006a,Edvard Munch,250,artist,<p>1<br>Tooltip !</p>,circular,blue
+007a,Salvador Dali,803,artist,<p>1<br>Tooltip !</p>,circular,blue
+008a,Rene Magritte,194,artist,<p>1<br>Tooltip !</p>,circular,blue
+009a,Henri Matisse,318,artist,<p>1<br>Tooltip !</p>,circular,blue
+010a,Rembrandt van Rijn,299,artist,<p>1<br>Tooltip !</p>,circular,blue
+011a,Edgar Degas,768,artist,<p>1<br>Tooltip !</p>,circular,blue
+012a,Frida Kahlo,3087,artist,<p>1<br>Tooltip !</p>,circular,blue
+013a,Paul Cezanne,1390,artist,<p>1<br>Tooltip !</p>,circular,blue
+014a,Titian,928,artist,<p>1<br>Tooltip !</p>,circular,blue
+015a,Jackson Pollock,1787,artist,<p>1<br>Tooltip !</p>,circular,blue
+016a,Caravaggio,5100,artist,<p>1<br>Tooltip !</p>,circular,blue
+017a,Gustav Klimt,7816,artist,<p>1<br>Tooltip !</p>,circular,blue
