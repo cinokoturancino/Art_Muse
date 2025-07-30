@@ -1,1 +1,1 @@
-This is for practical purpose for seeing the network between artists and museums
+This is for practical purposes in order to see the network between artists and museums
