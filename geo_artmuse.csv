@@ -1,0 +1,11 @@
+id,label,value,group,title,shape,color,lat,long
+001m,Louvre Museum ,1591,museum ,<p>1<br>Tooltip !</p>,triangular,red,48.86071695,2.337998048
+002m,The British Museum ,266,museum ,<p>1<br>Tooltip !</p>,triangular,red,51.51970694,-0.126162686
+003m,The Metropolitan Museum of Art,1614,museum ,<p>1<br>Tooltip !</p>,triangular,red,40.77950156,-73.96272902
+004m,Vatican Museums,9,museum ,<p>1<br>Tooltip !</p>,triangular,red,41.90667135,12.45403824
+005m,Musée d'Orsay,105,museum ,<p>1<br>Tooltip !</p>,triangular,red,48.86011666,2.326893991
+006m,Tate Modern,678,museum ,<p>1<br>Tooltip !</p>,triangular,red,51.50772883,-0.099023809
+007m,National Gallery of Art,1224,museum ,<p>1<br>Tooltip !</p>,triangular,red,38.89146498,-77.01908524
+008m,The Museum of Modern Art,5565,museum ,<p>1<br>Tooltip !</p>,triangular,red,40.76151394,-73.9767633
+009m,Van Gogh Museum,1299,museum ,<p>1<br>Tooltip !</p>,triangular,red,52.35818051,4.881527162
+010m,Rijksmuseum,560,museum ,<p>1<br>Tooltip !</p>,triangular,red,52.36013517,4.885605035
